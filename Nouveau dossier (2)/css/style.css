@@ -1,0 +1,150 @@
+body{
+    background-image:
+    linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg, black, black 70.71%),
+    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+a{
+    color: white;
+    padding: 8px;
+}
+a:hover{
+    color:red;
+}
+div{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#img{
+    display:inline-block;
+    margin-left: 0%;
+}
+img{
+    width:100%;
+    height: 100%;
+}
+h1{
+    color: snow;
+    text-align: center;
+}
+#takwa{
+    margin-left: 30%;
+}
+form{
+    text-align: center;
+}
+div iframe{
+    margin-left: 30%;
+}
+textarea{
+    font-size: 20px;
+    margin-left: -30%;
+    max-height: 200px;
+    max-width: 700px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+#ghirrbo3{
+    margin-left: 42%;
+
+}
+#more{
+   font-size: 18px;
+   margin-left: 45%;
+   
+    
+}
+#cc{
+    color:white;
+}
+.sdsd{
+    background: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel.png);
+}
+.haha, .hahaha, .hahahaha{
+    height: 250px;
+    width: 250px;
+    text-align: center;
+}
+#back{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    margin-top: 45%;
+    display: none;
+}
+.haha{
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel.png);
+}
+.hahaha{
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel1.png);
+}
+.hahahaha{
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel2.png);
+    
+}
+#firstpart{
+    display:flex;
+    justify-content: space-around;
+}
+#secondpart{
+    display:flex;
+    justify-content: space-around;
+}
+#thirdpart{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+.bntcourses{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses1{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses2{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses3{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses4{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses5{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses6{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses7{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses8{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}

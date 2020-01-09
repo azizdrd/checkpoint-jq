@@ -1,0 +1,21 @@
+$(".haha").hover(function(){
+    $("#btn1").show();
+    $(this).css("opacity","0.5");
+},function(){
+    $("#btn1").hide()
+    $(this).css("opacity","1")
+});
+$(".hahaha").hover(function(){
+    $("#btn2").show();
+    $(this).css("opacity","0.5");
+},function(){
+    $("#btn2").hide()
+    $(this).css("opacity","1")
+})
+$(".hahahaha").hover(function(){
+    $("#btn3").show();
+    $(this).css("opacity","0.5");
+},function(){
+    $("#btn3").hide()
+    $(this).css("opacity","1")
+})
